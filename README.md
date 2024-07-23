@@ -19,14 +19,14 @@ Create a .env file in the backend directory. Copy the contents from sample.env i
 
 ### Step 4
 Download the dependencies in both terminals (frontend and backend):
-# In the frontend terminal
+#### In the frontend terminal
 npm install
-# In the backend terminal
+#### In the backend terminal
 npm install
 
 ### Step 5
-# In the frontend terminal
+#### In the frontend terminal
 npm run dev
 
-# In the backend terminal
+#### In the backend terminal
 npm run dev
